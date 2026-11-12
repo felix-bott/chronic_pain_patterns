@@ -1,0 +1,9 @@
+subgroup,dataset,set,n
+CBP,Set_Boulder,WAGER,64
+CBP,Set_Brisbane,DAY,64
+CBP,Set_Munich1,LONG,32
+CBP,Set_Munich1,RS2020,41
+CBP,Set_Munich2,ZEBHAUSER,18
+CBP,Set_Otago1,ADHIA,50
+CBP,Set_Otago2,ADHIA2,73
+CBP,Set_Seattle,JENSEN,44

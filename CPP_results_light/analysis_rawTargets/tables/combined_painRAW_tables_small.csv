@@ -1,0 +1,3 @@
+model_folder,source_file,spatConfig,tempConfig,algo,agg,R,correlationBF,spearman_pred_obs,R2
+CPN,Direct_painRAW.csv,,,linear,,0.0887075388066013,2.1009717095777036,0.11346840462340854,-0.0020209567377253
+FBR,Direct_painVarsRAW.csv,Schaefer100,2,ridge,mean,0.1979920981569292,41154.70222787568,0.20695111150834922,-0.1765721616387001

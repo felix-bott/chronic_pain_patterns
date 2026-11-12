@@ -1,0 +1,3 @@
+model_folder,source_file,spatConfig,tempConfig,algo,agg,R,correlationBF,spearman_pred_obs,R2
+FBS,Direct_ageRAW.csv,Sensor,2,ridge,mean,0.615318945394407,6.633892824959005e+62,0.6241908508440547,0.3776413311112487
+HCF,Direct_ageRAW.csv,Sensor,2,linear,mean,0.598949617763695,4.1350641298960653e+58,0.651256325464447,0.3048973718050979
